@@ -1,0 +1,10 @@
+# ide folders
+.vscode/
+
+# custom folders
+connection/
+model/
+routes/
+
+# hidden files
+.deployment
